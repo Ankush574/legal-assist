@@ -57,13 +57,3 @@ JavaScript
 TypeScript for services & APIs
 
 
-Other Tools
-
-Git & GitHub
-
-REST APIs
-
-Optional: OpenAI/HuggingFace for AI legal assistant
-
-
-
