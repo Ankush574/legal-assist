@@ -33,7 +33,7 @@ Dashboard for analytics
 
 🛠 Admin Features
 
-Approve/verify lawyer profiles
+verify lawyer profiles
 
 Manage users, cases, and services
 
@@ -49,8 +49,6 @@ Tailwind
 JavaScript 
 
 TypeScript
-
-Backend 
 
 JavaScript 
 
