@@ -50,8 +50,6 @@ JavaScript
 
 TypeScript
 
-JavaScript 
-
 Backend
 
 TypeScript for services & APIs
